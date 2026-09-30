@@ -8,15 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=625&height=44&lines=I%20love%20programming%20as%20much%20as%20I%20hate%20it" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
-👋 Hi, I'm a freelance software engineer specializing in web and mobile development.  
-🛠️ I build with React, React Native, Node.js, and Expo.  
-🎓 Currently pursuing a master's in cybersecurity in Malta 🇲🇹, so I'm bringing a security-first mindset to the apps I build.  
-💻 I split my time between macOS and Arch Linux.  
-📫 Open to freelance projects, so feel free to reach out.
+ Hi, I'm a freelance software engineer specializing in web and mobile development.  
+ I build with React, React Native, Node.js, and Expo.  
+ Currently pursuing a master's in cybersecurity in Malta.  
+ I split my time between macOS and Arch Linux.  
+ Open to freelance projects, so feel free to reach out.
 
-🌱 &nbsp;I'm currently learning **Flutter, Bash. currently stopped**
+ &nbsp;I'm currently learning **Flutter, Bash. currently stopped**
 
 ### 🛠️ Tech Stack
 
